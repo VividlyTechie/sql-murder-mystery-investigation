@@ -1,6 +1,5 @@
-![SQL Murder Mystery Banner](banner.png)
 # SQL Murder Mystery – Data Investigation
-
+![SQL Murder Mystery Banner](banner.png)
 ## Project Overview
 This project recreates a **forensic data investigation** using SQL to solve a fictional murder that occurred on **January 15, 2018 in SQL City**. Acting as a data analyst, I queried a relational database to identify the suspect by analyzing crime reports, witness statements, gym membership records, driver's licenses, and event attendance data.
 
