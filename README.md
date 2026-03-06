@@ -5,7 +5,7 @@ This project recreates a **forensic data investigation** using SQL to solve a fi
 
 The investigation demonstrates how SQL can be used to **extract insights from multiple related datasets and reconstruct real-world scenarios through structured querying.**
 
----
+
 
 ## Skills Demonstrated
 
@@ -17,7 +17,7 @@ The investigation demonstrates how SQL can be used to **extract insights from mu
 - Set Operations (`UNION`)
 - Relational Data Exploration
 
----
+
 
 ## Investigation Summary
 
@@ -33,32 +33,10 @@ Cross-referenced **Get Fit Now Gym memberships, check-ins, and driver's license 
 ### 4. Identifying the Mastermind
 Using testimony from the suspect, I filtered the database by physical description, vehicle type, and event attendance to uncover **Miranda Priestly** as the mastermind.
 
----
+
 
 ## Key Result
 
 The investigation concluded that **Jeremy Bowers** committed the murder, while **Miranda Priestly** orchestrated the crime.
 
----
 
-## Repository Structure
-sql-murder-mystery-investigation
-│
-├── README.md
-├── ERD.png
-│
-└── sql
-    ├── table_creation
-    │
-    │
-    ├── inserting_data
-    │   
-    │
-    ├── detective_query
-    │   
-    │
-    └── inserting_table
-    │   
-    │
-    └── investigation log.pdf
-        
