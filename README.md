@@ -1,3 +1,4 @@
+![SQL Murder Mystery Banner](banner.png)
 # SQL Murder Mystery – Data Investigation
 
 ## Project Overview
